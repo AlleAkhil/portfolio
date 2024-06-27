@@ -3,7 +3,7 @@ import { useGLTF, useAnimations } from '@react-three/drei';
 
 const Model = (props) => {
   const group = useRef();
-  const { nodes, materials, animations } = useGLTF('https://portfolio-server-anzf.onrender.com/model');
+  const { nodes, materials, animations } = useGLTF('https://akhilalle-server.onrender.com/model');
   const { actions, names } = useAnimations(animations, group);
 
   useEffect(() => {
