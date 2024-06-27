@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="uuid-418f975c-2185-40ac-8418-98d45e1e86b3" data-name="Layer 1" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 5000 5000">
+  <defs>
+    <style>
+      .uuid-829ba1fa-7b56-4c35-8840-7a058df86ce4 {
+        fill: #333;
+      }
+
+      .uuid-829ba1fa-7b56-4c35-8840-7a058df86ce4, .uuid-0994141c-bb25-441a-b866-c565ac0fa773, .uuid-c2d2edb3-a153-491b-a64f-657f8f74cd99 {
+        stroke-width: 0px;
+      }
+
+      .uuid-829ba1fa-7b56-4c35-8840-7a058df86ce4, .uuid-c2d2edb3-a153-491b-a64f-657f8f74cd99 {
+        fill-rule: evenodd;
+      }
+
+      .uuid-0994141c-bb25-441a-b866-c565ac0fa773 {
+        fill: #fff;
+      }
+
+      .uuid-c2d2edb3-a153-491b-a64f-657f8f74cd99 {
+        fill: #f48120;
+      }
+    </style>
+  </defs>
+  <rect class="uuid-0994141c-bb25-441a-b866-c565ac0fa773" width="5000" height="5000"/>
+  <g>
+    <polygon class="uuid-c2d2edb3-a153-491b-a64f-657f8f74cd99" points="3175.05 1529.42 3687.72 1822.4 3687.72 2211.84 2853.15 1715.28 3175.05 1529.42"/>
+    <polygon class="uuid-829ba1fa-7b56-4c35-8840-7a058df86ce4" points="2502.02 1144.82 2845.01 1340.82 1664.15 2022.59 1664.15 2225.38 2848.11 2908.94 2506.94 3105.93 1316.36 2423.47 1316.36 1822.4 1909.2 1483.6 2502.02 1144.82"/>
+    <polygon class="uuid-829ba1fa-7b56-4c35-8840-7a058df86ce4" points="2502.06 1894.07 2159.08 2090.08 3339.94 2771.85 3339.94 2974.63 2155.97 3658.2 2497.14 3855.18 3687.72 3172.72 3687.72 2571.65 3094.88 2232.85 2502.06 1894.07"/>
+    <polygon class="uuid-c2d2edb3-a153-491b-a64f-657f8f74cd99" points="1316.37 3177.59 1829.69 3469.44 2164.78 3271.01 1312.28 2805.92 1316.37 3177.59"/>
+  </g>
+</svg>
