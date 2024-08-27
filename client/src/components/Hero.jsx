@@ -25,7 +25,7 @@ const Hero = () => {
           </p>
           <div className="mt-4 flex flex-col sm:flex-row gap-4">
             <a
-              href="https://drive.google.com/file/d/13qc0u6k2dD-le3JLX5Ag9ucNytjPxVfu/view?usp=drive_link" // Replace with actual path to your resume
+              href="https://akhilalle-resume.netlify.app/Akhil-Resume.pdf" // Replace with actual path to your resume
               target="_blank"
               rel="noopener noreferrer"
               className="bg-secondary py-3 px-6 sm:px-3 rounded-lg text-white text-sm font-semibold shadow-md hover:bg-opacity-90 transition duration-300 flex items-center z-20"
