@@ -25,6 +25,7 @@ import {
   tec,
   req,
   cosc,
+  mis,
   threejs,
 } from "../assets";
 
@@ -182,7 +183,7 @@ const experiences = [
     company_name: "TimeChain Labs",
     icon: tc,
     iconBg: "#383E56",
-    date: "June 2024 - Present",
+    date: "June 2024 - Aug 2024",
     points: [
       "Title: Rookie Developer in TimeChain Summer of Code 2024, 2nd Edition",
       "Focus: The TSoC'24 Rookie Phase is dedicated to leveling up blockchain skills.",
@@ -220,6 +221,50 @@ const testimonials = [
 ];
 
 const projects = [
+  {
+    name: "Requisition Management Systema",
+    description:
+      "Efficient Web-based Requisition Management System (W-RMS) using MVC (MySQL, HTML, PHP) for streamlined Guesthouse, Vehicle, and Canteen requisition processes.",
+    tags: [
+      {
+        name: "html",
+        color: "blue-text-gradient",
+      },
+      {
+        name: "javascript",
+        color: "green-text-gradient",
+      },
+      {
+        name: "php",
+        color: "pink-text-gradient",
+      },
+    ],
+    image: req,
+    dep_link: "",
+    source_code_link: "",
+  },
+  {
+    name: "CBIT - MIS",
+    description:
+      "A MERN stack web application to manage facilities across a campus, including labs, seminar halls, and classrooms, reducing maintenance time by 40% and improving facility usage efficiency by 30%.",
+    tags: [
+      {
+        name: "react",
+        color: "blue-text-gradient",
+      },
+      {
+        name: "nodejs",
+        color: "green-text-gradient",
+      },
+      {
+        name: "expressjs",
+        color: "pink-text-gradient",
+      },
+    ],
+    image: mis,
+    dep_link: "https://miscbit.vercel.app/",
+    source_code_link: "https://github.com/AlleAkhil/CBIT-MIS",
+  },
   {
     name: "Conference Website",
     description:
@@ -284,28 +329,6 @@ const projects = [
     ],
     image: cosc,
     dep_link: "https://cbitosc.github.io/OpenSys-23/",
-    source_code_link: "",
-  },
-  {
-    name: "Requisition Management Systema",
-    description:
-      "Efficient Web-based Requisition Management System (W-RMS) using MVC (MySQL, HTML, PHP) for streamlined Guesthouse, Vehicle, and Canteen requisition processes.",
-    tags: [
-      {
-        name: "html",
-        color: "blue-text-gradient",
-      },
-      {
-        name: "javascript",
-        color: "green-text-gradient",
-      },
-      {
-        name: "php",
-        color: "pink-text-gradient",
-      },
-    ],
-    image: req,
-    dep_link: "",
     source_code_link: "",
   },
 ];

@@ -32,6 +32,7 @@ import confweb from "./confweb.png";
 import req from "./req.jpeg";
 import cosc from "./cosc.png";
 import tec from "./tec.png";
+import mis from './mis.png'
 
 export {
   logo,
@@ -65,4 +66,5 @@ export {
   req,
   cosc,
   tec,
+  mis,
 };
